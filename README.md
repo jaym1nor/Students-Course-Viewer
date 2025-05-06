@@ -1,4 +1,4 @@
-# NCAT Role-Based Class Roster Application
+# Role-Based Class Roster Application
 
 This is currently a terminal-based class management system built using **Python** and **MySQL**. It supports **role-based access** for **Managers** and **Students**, allowing them to interact with class rosters through a secure login system.
 Future Addition: **WEB Application Interface**
